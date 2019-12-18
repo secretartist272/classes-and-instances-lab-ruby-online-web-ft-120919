@@ -1,5 +1,5 @@
 Class
 end
 
-fido = New
+fido = 
 
