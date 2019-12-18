@@ -1,5 +1,6 @@
-Class Dog
+class Dog
 end
 
-fido = D
+fido = Dog.New
+snoopy = Dog.New
 
