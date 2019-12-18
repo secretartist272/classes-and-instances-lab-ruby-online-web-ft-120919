@@ -1,3 +1,5 @@
 Class
 end
 
+fido = New
+
