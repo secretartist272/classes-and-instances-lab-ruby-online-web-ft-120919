@@ -1,5 +1,5 @@
-Class
+Class Dog
 end
 
-fido = 
+fido = D
 
